@@ -55,7 +55,8 @@ while(w!=0)
     
 }
 printf("total %d coins are required\n",table[c][v+1]);
-printf("value of coins is: ");
+printf("value of coins is:");
+printf(" ");
 for(i=0;i<k;i++)
 printf("%d ",value[i]);
 getch();
