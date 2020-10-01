@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//use for standard input output
 #include<conio.h>
 int min(int a,int b)
 {
