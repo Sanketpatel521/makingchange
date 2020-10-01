@@ -59,6 +59,6 @@ printf("value of coins is:");
 printf(" ");
 for(i=0;i<k;i++)
 printf("%d ",value[i]);
-getch();
+retrun 0;
 
 }
